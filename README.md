@@ -51,6 +51,6 @@ The second script, [profiles.py](https://github.com/witsblue/calipso_cloud_proce
 - Sum of the geometrical thickness from all cirrus in the profile
 - Mininum laser energy
 
-Refference: [https://doi.org/10.1016/j.atmosres.2023.107167](https://doi.org/10.1016/j.atmosres.2023.107167)
+Reference: [https://doi.org/10.1016/j.atmosres.2023.107167](https://doi.org/10.1016/j.atmosres.2023.107167)
 
 Contact: benhurmarpor@gmail.com
